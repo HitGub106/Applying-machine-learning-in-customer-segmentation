@@ -30,7 +30,7 @@ engine = create_engine(
 3. Open CMD and navigate to the source code directory.
 
 4. Run the files in the following order:
-``bash
+```bash
 py preprocessing.py
 py transform.py
 py k-means.py
