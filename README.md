@@ -14,6 +14,9 @@ This project applies machine learning algorithms to customer segmentation analys
 - Scikit-learn
 - Matplotlib
 
+## Dataset Used
+https://www.kaggle.com/datasets/omercolakoglu/50million-rows-turkish-market-sales-datasetmssql
+
 ## Usage
 
 1. Import the database into SQL Server.
@@ -39,6 +42,9 @@ py DBSCAN.py
 ```
 
 6. View the output and clustering results for each method.
+
+## Result
+https://drive.google.com/drive/folders/1yf0c1UaktT_ULdnJqWEcbyAtiPn0IbvC?usp=sharing
 
 ## Author
 GitHub106
